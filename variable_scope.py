@@ -11,11 +11,11 @@ boo()
 def fun1():
     b = 200
 
-    print b
+    print(b)
 def fun2():
     c = 100
-    print c
-    print b
+    print(c)
+    print(b)
 
 fun1()
 ## Uncomment to see the error
